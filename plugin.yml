@@ -1,0 +1,5 @@
+name: JoinFly
+version: 1.0.0
+main: Fly\Main
+api: 3.0.0
+author: SandhyR
